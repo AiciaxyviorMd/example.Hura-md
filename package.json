@@ -1,0 +1,19 @@
+{
+  "name": "example.Hura-md",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ptkdev/logger": "^1.8.0",
+    "@whiskeysockets/baileys": "^6.5.0",
+    "axios": "^1.5.1",
+    "pino": "^8.16.0",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.30.7"
+  }
+}
